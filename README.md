@@ -5,11 +5,9 @@
 cargo run --sample.txt
 
 ## 出力例
-'''
 1位: rust - 5
 2位: hello - 3
 3位: world - 2
-'''
 
 ## 学んだこと
 - 所有権・借用の基本
